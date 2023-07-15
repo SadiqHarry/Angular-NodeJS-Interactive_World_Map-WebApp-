@@ -15,7 +15,7 @@ This project showcases an interactive world map that provides a visual interface
   - Country capital
   - Country region
   - Income level
-  - Two additional country properties: longitude and latitude
+  - longitude and latitude
 
 ## Usage
 
