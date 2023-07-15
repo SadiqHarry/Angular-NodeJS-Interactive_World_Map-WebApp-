@@ -42,8 +42,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact [Sadiq Harry] at [sadiqharry@gmail.com].
 
-## Website
-
-Visit the [Interactive World Map website](https://www.example.com) to explore the project.
-
 Thank you for your interest!
