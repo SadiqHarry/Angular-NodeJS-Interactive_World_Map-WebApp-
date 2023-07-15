@@ -1,6 +1,6 @@
 # Interactive World Map
 
-This project showcases an interactive world map that provides a visual interface for exploring country information. It utilizes Angular, NodeJS, TypeScript, HTML, and CSS to build the application, along with the Innovsandbox map API to fetch country details based on longitude and latitude coordinates.
+This project showcases an interactive world map that provides a visual interface for exploring country information. It utilizes Angular, NodeJS, TypeScript, HTML, and CSS to build the application, along with the Innovsandbox map and World Bank API to fetch country details based SVG map coordinates.
 
 ![worldmap](https://github.com/SadiqHarry/Interactive_World_Map/assets/116308353/0d9f6f90-59bf-4cc5-8301-2653376c6d8e)
 
